@@ -12,6 +12,7 @@ public class atmmachine {
 // Cash deposit
 // PIN change
 // Transaction history
+//Cancel for complete exit
 
 class Atm {
 
