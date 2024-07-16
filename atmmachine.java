@@ -1,7 +1,5 @@
-
 import java.util.*;
 public class atmmachine {
-
     public static void main(String[] args) {
           Atm a = new Atm(); 
     }
